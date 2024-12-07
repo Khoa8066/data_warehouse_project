@@ -80,8 +80,9 @@
 
 
     // SOURCE: https://stackoverflow.com/a/63541437
-    "workbench.editorAssociations": {   
+    "workbench.editorAssociations": {
         "*.md": "vscode.markdown.preview.editor",
+        "*.vsix": "default"
     },
 
 
